@@ -27,7 +27,7 @@ const SignUpForm = () => {
 
     setFormFields({...formFields, [name]: value});
 
-    
+        
 
     }
 
